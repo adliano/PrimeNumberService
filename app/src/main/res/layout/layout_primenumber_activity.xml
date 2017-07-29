@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+* Author : Adriano Alves
+* Date : Apr 17 2016
+* Project Name : PrimeNumberService
+* Objective : CS311D HW6 PrimeNumberActivity's Layout file
+*             project to generate prime numbers
+*             using service
+*
+-->
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/darkMagenta"
+    android:weightSum="1">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_top"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textStyle="bold"
+        android:text="@string/str_tv_from"
+        android:layout_gravity="center_horizontal"/>
+
+    <EditText
+        android:id="@+id/editText_from"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_sides"
+        android:layout_marginStart="@dimen/margin_sides"
+        android:layout_marginRight="@dimen/margin_sides"
+        android:layout_marginEnd="@dimen/margin_sides"
+        android:background="@color/whiteSmoke"
+        android:inputType="number"
+        android:ems="10"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_top"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textStyle="bold"
+        android:text="@string/str_tv_to"
+        android:layout_gravity="center_horizontal"/>
+
+    <EditText
+        android:id="@+id/editText_to"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_sides"
+        android:layout_marginStart="@dimen/margin_sides"
+        android:layout_marginRight="@dimen/margin_sides"
+        android:layout_marginEnd="@dimen/margin_sides"
+        android:background="@color/whiteSmoke"
+        android:inputType="number"
+        android:ems="10"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:onClick="door"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_top"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textStyle="bold"
+        android:text="@string/str_tv_numbers_of_prime"
+        android:layout_gravity="center_horizontal"/>
+
+    <TextView
+        android:id="@+id/textView_total_primes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_sides"
+        android:layout_marginStart="@dimen/margin_sides"
+        android:layout_marginRight="@dimen/margin_sides"
+        android:layout_marginEnd="@dimen/margin_sides"
+        android:background="@color/whiteSmoke"
+        android:ems="10"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:textColor="@color/black"/>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_top"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="@string/srt_bt_send"
+        android:layout_gravity="center_horizontal"
+        android:onClick="buttonSend"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_top"
+        android:text="@string/str_bt_service_status"
+        android:id="@+id/button2"
+        android:layout_gravity="center_horizontal"
+        android:onClick="btServiceStatus"/>
+</LinearLayout>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+* Author : Adriano Alves
+* Date : Apr 17 2016
+* Project Name : PrimeNumberService
+* Objective : CS311D HW6 String file
+*             project to generate prime numbers
+*             using service
+*
+-->
+
+<resources>
+    <string name="app_name">PrimeNumberService</string>
+    <string name="str_tv_from">From</string>
+    <string name="str_tv_to">To</string>
+    <string name="str_tv_numbers_of_prime">Numbers Of Prime(s)</string>
+    <string name="srt_bt_send">Send</string>
+    <string name="str_bt_service_status">Service Status</string>
+
+    <string name="str_dialog_pin_number">Pin Number</string>
+    <string name="str_dialog_passphrase">Passphrase</string>
+
+    <!-- String used on header of dialog in html format-->
+    <string name="str_dialog_msg"><font size='45'><b>Stop Service ?</b></font></string>
+    <string name="str_dialog_stop_button">Yes</string>
+    <string name="str_dialog_cancel_button">Cancel</string>
+
+</resources>

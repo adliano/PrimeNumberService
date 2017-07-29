@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/PrimeNumberService/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/stop_image.png",
+        "source": "/home/adliano/AndroidStudioProjects/PrimeNumberService/app/src/main/res/drawable-ldpi/stop_image.png"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/PrimeNumberService/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/home/adliano/AndroidStudioProjects/PrimeNumberService/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    }
+]

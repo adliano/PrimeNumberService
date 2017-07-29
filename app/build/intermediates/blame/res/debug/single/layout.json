@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/PrimeNumberService/app/build/intermediates/res/merged/debug/layout/layout_dialog.xml",
+        "source": "/home/adliano/AndroidStudioProjects/PrimeNumberService/app/src/main/res/layout/layout_dialog.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/PrimeNumberService/app/build/intermediates/res/merged/debug/layout/layout_primenumber_activity.xml",
+        "source": "/Users/adliano/AndroidStudioProjects/PrimeNumberService/app/src/main/res/layout/layout_primenumber_activity.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/PrimeNumberService/app/build/intermediates/res/merged/debug/layout/layout_dialog.xml",
+        "source": "/Users/adliano/AndroidStudioProjects/PrimeNumberService/app/src/main/res/layout/layout_dialog.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/PrimeNumberService/app/build/intermediates/res/merged/debug/layout/layout_primenumber_activity.xml",
+        "source": "/home/adliano/AndroidStudioProjects/PrimeNumberService/app/src/main/res/layout/layout_primenumber_activity.xml"
+    }
+]

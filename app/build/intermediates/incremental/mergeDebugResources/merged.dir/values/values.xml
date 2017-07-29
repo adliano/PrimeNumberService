@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Crimson">#DC143C</color>
+    <color name="black">#000000</color>
+    <color name="blue">#0000FF</color>
+    <color name="brow">#A52A2A</color>
+    <color name="chocolate">#8B4513</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="darkGray">#696969</color>
+    <color name="darkGreen">#006400</color>
+    <color name="darkMagenta">#8B008B</color>
+    <color name="deepPink">#FF1493</color>
+    <color name="gold">#FFD700</color>
+    <color name="gray">#808080</color>
+    <color name="green">#008000</color>
+    <color name="greenYellow">#ADFF2F</color>
+    <color name="hotPink">#FF69B4</color>
+    <color name="indianRed">#CD5C5C</color>
+    <color name="lightGray">#DCDCDC</color>
+    <color name="lime">#00FF00</color>
+    <color name="magenta">#FF00FF</color>
+    <color name="maroon">#800000</color>
+    <color name="navy">#000080</color>
+    <color name="orange">#FFA500</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="purple">#800080</color>
+    <color name="red">#FF0000</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="skyBlue">#87CEEB</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whiteSmoke">#F5F5F5</color>
+    <color name="yellow">#FFFF00</color>
+    <dimen name="margin_sides">50dp</dimen>
+    <dimen name="margin_top">20dp</dimen>
+    <string name="app_name">PrimeNumberService</string>
+    <string name="srt_bt_send">Send</string>
+    <string name="str_bt_service_status">Service Status</string>
+    <string name="str_dialog_cancel_button">Cancel</string>
+    <string name="str_dialog_msg"><font size="45"><b>Stop Service ?</b></font></string>
+    <string name="str_dialog_passphrase">Passphrase</string>
+    <string name="str_dialog_pin_number">Pin Number</string>
+    <string name="str_dialog_stop_button">Yes</string>
+    <string name="str_tv_from">From</string>
+    <string name="str_tv_numbers_of_prime">Numbers Of Prime(s)</string>
+    <string name="str_tv_to">To</string>
+</resources>
